@@ -1,6 +1,10 @@
 # Free Bitcoin Apparel Designs
 
-You are free to use those designs under CreativeCommons BY-NC 4.0 license.
+You are free to use these designs under Creative Commons BY-NC 4.0 license.
+
+[![OpenBazaar](https://upload.wikimedia.org/wikipedia/en/thumb/0/04/OpenBazaar_logo.png/256px-OpenBazaar_logo.png)](ob://@smt/store)
+
+If you like them you can buy them on OpenBazaar at [@smt/store](ob://@smt/store).
 
 ## T-Shirts
 
@@ -36,11 +40,11 @@ You are free to use those designs under CreativeCommons BY-NC 4.0 license.
 ###### Women - Black
 ![SHUT UP AND TAKE MY BITCOINS - Women - Asphalt](https://raw.githubusercontent.com/Sekhmet/bitcoin-apparel/master/mockups/women/shut%20up/american%20apparel__black_wrinkle%20front_mockup.png)
 
-### How to print it on your shirt or buy it.
-[How to Print on T Shirts](http://www.wikihow.com/Print-on-T-Shirts)
+### How to print it on your shirt
+[How to Print on T-Shirts](http://www.wikihow.com/Print-on-T-Shirts)
 
-### Donate
-If you like my work you can send me some bitcoins to `1B2vTZrs4QvpqQWa9YH9U11ngK5eC5ow2G`.
+### Donate & buy
+If you like my work you can send me some bitcoins to `1FgiVCM1Br2QmWMhAyK9UxwQAUgZAeCBpL` or buy one of shirts on my OpenBazaar at  [@smt/store](ob://@smt/store) for $24.95 each + shipping.
 
 ## License
 [![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
